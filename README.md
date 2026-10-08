@@ -14,7 +14,7 @@ Program linear minimasi biaya campuran Larutan Basa dan Larutan Garam.
 ## Cara menjalankan
 
 ### Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uAP4MZM0Ul_E9EA9ErowQ0K3p8zpOaks)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nFZiz3L0QBaEb3YTTSB1KOd0i7gYlkFS?usp=sharing)
 
 ### Lokal
 ```bash
